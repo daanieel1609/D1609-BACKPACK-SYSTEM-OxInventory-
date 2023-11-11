@@ -1,3 +1,7 @@
+# d1609_backpack LINK TO PURCHASE IT FOR FREE / LINK PARA ADQUIRIRLO GRATIS
+
+<b>https://d1609-scripts-shop.tebex.io/package/5990624<b>
+
 # d1609_backpack ENGLISH
 
 This resource was created as a free script for backpacks using ox_inventory
